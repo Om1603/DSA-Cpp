@@ -1,3 +1,3 @@
 # DSA in C++
 
-[Problem-solving]
+[Problem-solving](fundamentals/Problem-solving)
