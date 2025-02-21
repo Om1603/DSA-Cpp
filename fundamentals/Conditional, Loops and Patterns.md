@@ -46,3 +46,10 @@ for(int row = 0; row < 4; row++){
 	cout << endl;
 }
 ```
+
+
+### 3. Hollow Rectangle
+Here we have -> 1st row - all stars, last row all stars, and remaining rows 1st star then spaces then at last star
+```
+
+```
