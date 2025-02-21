@@ -24,7 +24,7 @@ for(int i = 0; i < 5; i++){
 ## Patterns -:
 In Pattern Questions, count the number of rows and the number of columns, in this type of question always a nested loop is used where the inner loop is for columns and outer loop is for the rows
 
-1. Solid Rectangle
+### 1. Solid Rectangle  
 	Here we have 3 rows and 5 columns
 ```
 for(int row = 0; row < 3; row++) {
@@ -33,7 +33,6 @@ for(int row = 0; row < 3; row++) {
         }
         cout << endl;
     }
-```
-![[Pasted image 20250222003443.png]]
+``` 
+![image](https://github.com/user-attachments/assets/d13a02c9-a8ef-4b93-9ded-306bab542016)
 
-### 2. 
