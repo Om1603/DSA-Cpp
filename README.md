@@ -1,3 +1,6 @@
 # DSA in C++
 
-[[Problem-solving]]
+## Fundamentals
+
+1. [Problem-Solving](fundamentals/Problem-solving.md)
+2. 
