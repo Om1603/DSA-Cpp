@@ -16,7 +16,7 @@
 ### Pseudocode
 Detailed but readable description of what a computer program or algorithm must do.
 
-##### Example:
+##### Example
 Start Program
 Enter Two Numbers A and B
 Subtract The Two Numbers
