@@ -5,7 +5,7 @@
 * Algorithm - This is the most important part of DSA
 
 ### FlowCharts
-#### Components
+### Components
 * **Terminator** - For Start and End
 * **Input/Output**
 * **Process Block** - To declare or print
