@@ -1,10 +1,10 @@
 
-### Methods to solve problems
+## Methods to solve problems
 * Flowcharts
 * Pseudocode
 * Algorithm - This is the most important part of DSA
 
-### FlowCharts
+## FlowCharts
 **Components**
 * **Terminator** - For Start and End
 * **Input/Output**
