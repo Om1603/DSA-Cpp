@@ -35,3 +35,5 @@ for(int row = 0; row < 3; row++) {
     }
 ```
 ![[Pasted image 20250222003443.png]]
+
+### 2. 

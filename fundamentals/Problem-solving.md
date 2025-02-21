@@ -1,11 +1,11 @@
 
-### Methods to solve problems
+## Methods to solve problems
 * Flowcharts
 * Pseudocode
 * Algorithm - This is the most important part of DSA
 
-### FlowCharts
-#### Components
+## FlowCharts
+**Components**
 * **Terminator** - For Start and End
 * **Input/Output**
 * **Process Block** - To declare or print
@@ -21,7 +21,6 @@ Start Program
 Enter Two Numbers A and B
 Subtract The Two Numbers
 Print The Output
-End Program
-
+End Program  
 
 

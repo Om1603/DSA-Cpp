@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fundamentals/Conditional, Loops and Patterns.md",
+                "file": "fundamentals/Problem-solving.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conditional, Loops and Patterns"
+              "title": "Problem-solving"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fundamentals/Conditional, Loops and Patterns.md",
+                "file": "fundamentals/Problem-solving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Conditional, Loops and Patterns"
+              "title": "Backlinks for Problem-solving"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fundamentals/Conditional, Loops and Patterns.md",
+                "file": "fundamentals/Problem-solving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Conditional, Loops and Patterns"
+              "title": "Outgoing links from Problem-solving"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fundamentals/Conditional, Loops and Patterns.md",
+                "file": "fundamentals/Problem-solving.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Conditional, Loops and Patterns"
+              "title": "Outline of Problem-solving"
             }
           }
         ]
@@ -185,10 +185,10 @@
   },
   "active": "e80c8477e433256f",
   "lastOpenFiles": [
+    "fundamentals/Conditional, Loops and Patterns.md",
     "Pasted image 20250222003443.png",
     "Pasted image 20250222003413.png",
     "Untitled.md",
-    "fundamentals/Conditional, Loops and Patterns.md",
     "fundamentals/Problem-solving.md",
     "README.md"
   ]
