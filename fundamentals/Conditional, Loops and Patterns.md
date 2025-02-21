@@ -34,5 +34,15 @@ for(int row = 0; row < 3; row++) {
         cout << endl;
     }
 ``` 
-![image](https://github.com/user-attachments/assets/d13a02c9-a8ef-4b93-9ded-306bab542016)
 
+
+### 2. Square Pattern
+	Here we have 4 rows and 4 columns  
+```
+for(int row = 0; row < 4; row++){
+	for(int col = 0; col <4; col++){
+		cout << "* ";
+	}
+	cout << endl;
+}
+```
