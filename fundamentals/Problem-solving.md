@@ -18,11 +18,11 @@ Detailed but readable description of what a computer program or algorithm must d
 
 **Example**
 
-Start Program
-Enter Two Numbers A and B
-Subtract The Two Numbers
-Print The Output
-End Program
+Start Program  
+Enter Two Numbers A and B  
+Subtract The Two Numbers  
+Print The Output  
+End Program  
 
 
 
